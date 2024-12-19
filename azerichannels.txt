@@ -1,0 +1,20 @@
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
+https://cdn402.canlitv.vin/trt1.m3u8?tkn=9LzWEg0UeO_x7LXfOubpRw&tms=1734615286&hst=www.canlitv.vin&ip=37.61.112.150
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="ShowTV.tr"tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png" group-title="Ulusal",SHOW HD
+https://cdn401.canlitv.vin/showtv.m3u8?tkn=cOKTvonphIeQGectUHxjeA&tms=1734615361&hst=www.canlitv.vin&ip=37.61.112.150
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://antifriz.tv/storage/images/channel_logos/kanal7-hd-tr.png" group-title="Ulusal",KANAL 7 HD
+https://cdn403.canlitv.vin/kanal7.m3u8?tkn=iZ9iuKOPCvVAg1285jwv_A&tms=1734615497&hst=www.canlitv.vin&ip=37.61.112.150
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",KANAL D HD
+https://cdn406.canlitv.vin/kanald.m3u8?tkn=mIW0jo6eSxYD_JxEUoBG-Q&tms=1734615594&hst=www.canlitv.vin&ip=37.61.112.150
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://antifriz.tv/storage/images/channel_logos/tv8-hd-tr.png" group-title="Ulusal",TV8 HD
+https://cdn403.canlitv.vin/tv8.m3u8?tkn=MJiHr_5ZdlK6NsD93siJcw&tms=1734615659&hst=www.canlitv.vin&ip=37.61.112.150
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/aHD_250x150.png" group-title="Ulusal",ATV HD
+https://cdn401.canlitv.vin/atv.m3u8?tkn=Cau_98rct0Y4pXy0fismsA&tms=1734615757&hst=www.canlitv.vin&ip=37.61.112.150
+#EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",NOW HD
+https://cdn406.canlitv.vin/foxtv.m3u8?tkn=SNs37ixaatmBgpD4UeRA6w&tms=1734615819&hst=www.canlitv.vin&ip=37.61.112.150
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",STAR TV HD
+https://cdn7.canlitv.vin/startv.m3u8?tkn=WN3wM3BI5nLipifhI3FhLQ&tms=1734615902&hst=www.canlitv.vin&ip=37.61.112.150
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png" group-title="Ulusal",BEYAZ HD
+https://cdn401.canlitv.vin/beyaztv.m3u8?tkn=E7LBMwsMaByCe20wD_n77Q&tms=1734615984&hst=www.canlitv.vin&ip=37.61.112.150
+#EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="https://iaatv.tmgrup.com.tr/65837c/820/547/0/0/600/400?u=https://iatv.tmgrup.com.tr/2022/05/13/unutulmaz-diziler-a2de-a2-full-hd-izle-a2-canli-yayin-kesintisiz-izle-a2-yayin-akisi-ile-en-sevdigin-dizilere-1652464889414.jpg" group-title="Eğlence",A2TV HD
+https://cdn402.canlitv.vin/a2tv.m3u8?tkn=zn0y-bAbvI3S8Sd6iiDvLw&tms=1734616058&hst=www.canlitv.vin&ip=37.61.112.150
