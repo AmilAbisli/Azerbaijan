@@ -1,0 +1,10 @@
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png",Arb Gunes
+https://yayin2.canlitv.fun/live/arbgunes.stream/playlist.m3u8?hash=31ccea7dcf335b57e730babc4154f98c
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/aHD_250x150.png" group-title="Ulusal",AHD
+https://cdn404.canlitv.me/atv.m3u8?tkn=dUWRBfsfBqmjGoQQyNYQXQ&tms=1734186702&hst=www.canlitv.me&ip=37.61.112.183
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",KANAL D
+https://cdn11.canlitv.me/kanald.m3u8?tkn=gjFkanzzw5fKbr3LSwSr9Q&tms=1734187317&hst=www.canlitv.me&ip=37.61.121.55
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",STAR TV
+https://cdn11.canlitv.me/startv.m3u8?tkn=NpHktz0LPFY0kBVP8byp8g&tms=1734187487&hst=www.canlitv.me&ip=37.61.112.183
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="ShowTV.tr"tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png" group-title="Ulusal",SHOW HD
+https://cdn404.canlitv.me/showtv.m3u8?tkn=gxTKY2dniBqwXvdbS7kUuQ&tms=1734187614&hst=www.canlitv.me&ip=37.61.112.183 
