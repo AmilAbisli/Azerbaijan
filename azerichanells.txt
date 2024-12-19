@@ -8,3 +8,15 @@ https://cdn11.canlitv.me/kanald.m3u8?tkn=gjFkanzzw5fKbr3LSwSr9Q&tms=1734187317&h
 https://cdn11.canlitv.me/startv.m3u8?tkn=NpHktz0LPFY0kBVP8byp8g&tms=1734187487&hst=www.canlitv.me&ip=37.61.112.183
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="ShowTV.tr"tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png" group-title="Ulusal",SHOW HD
 https://cdn404.canlitv.me/showtv.m3u8?tkn=gxTKY2dniBqwXvdbS7kUuQ&tms=1734187614&hst=www.canlitv.me&ip=37.61.112.183 
+~#EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",NOW HD
+https://cdn404.canlitv.me/foxtv.m3u8?tkn=qatUNhVfGpkX0xrN0dHp4g&tms=1734612339&hst=www.canlitv.me&ip=37.61.126.115
+~#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://antifriz.tv/storage/images/channel_logos/kanal7-hd-tr.png" group-title="Ulusal",KANAL 7 HD
+https://cdn402.canlitv.me/kanal7.m3u8?tkn=jcKPt18ErFtzXp_YB13oLg&tms=1734612978&hst=www.canlitv.me&ip=37.61.126.115
+~#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://antifriz.tv/storage/images/channel_logos/tv8-hd-tr.png" group-title="Ulusal",TV8 HD
+https://cdn7.canlitv.me/tv8.m3u8?tkn=NoiLHGfFAiuAQX5wyjPpxQ&tms=1734613066&hst=www.canlitv.me&ip=37.61.126.115
+~#EXTINF:-1 tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png",ATV AVRUPA HD
+https://cdn405.canlitv.me/atvavrupa.m3u8?tkn=yaNfMd3HQ3YdqsyzJ1afQQ&tms=1734613180&hst=www.canlitv.me&ip=37.61.126.115
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1 HD
+https://cdn402.canlitv.me/trt1.m3u8?tkn=nBDihsPQa9kYjaTFFsAa_A&tms=1734613320&hst=www.canlitv.me&ip=37.61.126.115
+~#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="http://assets.tvcdn.net/fbaaa75c-0a2d-4ed6-b498-d32a59ddb899.png" group-title="Ulusal - Yurt Dýþý",TRT Türk HD
+https://cdn401.canlitv.me/trtspor.m3u8?tkn=FwnTERt08CLxKsgjkTIE9g&tms=1734613716&hst=www.canlitv.me&ip=37.61.126.115
